@@ -253,7 +253,7 @@
       "type": "borderRadius"
     },
     "border-radius-xl": {
-      "value": "16px",
+      "value": "36px",
       "type": "borderRadius"
     },
     "border-radius-none": {

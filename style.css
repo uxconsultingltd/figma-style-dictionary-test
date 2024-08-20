@@ -10,7 +10,7 @@ body {
   font-family: var(--typography-des-font-family-text);
   color: var(--colours-primary-text);
   background-color: var(--colours-primary-background);
-  border-radius: var(--border-radius-border-radius-xl)px;
+  border-radius: var(--border-radius-border-radius-xl);
   padding: var(--space-margin-md);
   border: none;
 }

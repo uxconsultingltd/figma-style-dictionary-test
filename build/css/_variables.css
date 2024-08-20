@@ -3,7 +3,7 @@
  */
 
 :root {
-  --colours-primary-background: #122b80;
+  --colours-primary-background: #008000;
   --colours-primary-text: #ffffff;
   --colours-primary-border: #122b80;
   --colours-primary-variant-background: #a8308c;
@@ -60,11 +60,11 @@
   --border-width-border-lg: 5;
   --border-width-border-xl: 10;
   --border-width-border-none: 0;
-  --border-radius-border-radius-xs: 1;
+  --border-radius-border-radius-xs: 1px;
   --border-radius-border-radius-sm: 3;
   --border-radius-border-radius-md: 5;
-  --border-radius-border-radius-lg: 8;
-  --border-radius-border-radius-xl: 16;
+  --border-radius-border-radius-lg: 8px;
+  --border-radius-border-radius-xl: 36px;
   --border-radius-border-radius-none: 0;
   --opacity-opacity-20: 0.2;
   --opacity-opacity-40: 0.4;
