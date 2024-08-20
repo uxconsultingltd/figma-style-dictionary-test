@@ -1,7 +1,7 @@
 {
   "Colours": {
     "primary-background": {
-      "value": "green",
+      "value": "#122b80",
       "type": "color"
     },
     "primary-text": {
@@ -253,7 +253,7 @@
       "type": "borderRadius"
     },
     "border-radius-xl": {
-      "value": "36px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "border-radius-none": {
