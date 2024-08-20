@@ -1,7 +1,7 @@
 {
   "Colours": {
     "primary-background": {
-      "value": "{error-background}",
+      "value": "green",
       "type": "color"
     },
     "primary-text": {
