@@ -1,7 +1,7 @@
 {
   "Colours": {
     "primary-background": {
-      "value": "#122b80",
+      "value": "{error-background}",
       "type": "color"
     },
     "primary-text": {
