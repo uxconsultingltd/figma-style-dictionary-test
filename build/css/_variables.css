@@ -3,7 +3,7 @@
  */
 
 :root {
-  --colours-primary-background: #122b80;
+  --colours-primary-background: #00bfff;
   --colours-primary-text: #ffffff;
   --colours-primary-border: #122b80;
   --colours-primary-variant-background: #a8308c;
@@ -118,7 +118,7 @@
   --typography-des-font-weight-bold: 700;
   --typography-des-font-weight-extrabold: 800;
   --typography-des-font-weight-black: 900;
-  --typography-des-font-family-text: Brandon Grotesque;
+  --typography-des-font-family-text: Lato;
   --typography-des-font-family-title: Lato;
   --typography-des-font-family-citation: Brandon Grotesque;
   --typography-des-line-height-xs: 110%;
