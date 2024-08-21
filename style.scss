@@ -17,7 +17,7 @@ h1 {
 
 .cta__primary-button{
     font-family:   var(--typography-des-font-family-text);
-    font-size: var( --typography-text-font-size-sm-min);
+    font-size: var( --typography-des-text-font-size-sm-min);
     color: var(--colours-primary-text);
     background-color: var(--colours-primary-background);
     border-radius: var(--border-radius-border-radius-xl);
@@ -25,10 +25,9 @@ h1 {
     border:none;
 }
 
-
 .cta__secondary-button{
     font-family:   var(--typography-des-font-family-text);
-    font-size: var( --typography-text-font-size-sm-min);
+    font-size: var( --typography-des-text-font-size-sm-min);
     color: var(--colours-primary-text);
     background-color: var(--colours-secondary-background);
     border-radius: var(--border-radius-border-radius-xl);
