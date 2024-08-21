@@ -7,6 +7,13 @@ body {
     padding-top: 100px;
 }
 
+h1 {
+    font-family: var(--typography-des-font-family-title);
+    font-size: var(--typography-des-title-font-size-xl-max);
+    font-weight: var(--typography-font-weight-medium);
+    line-height: var( --typography-line-height-xl);
+}
+
 
 .cta__primary-button{
     font-family:   var(--typography-des-font-family-text);
