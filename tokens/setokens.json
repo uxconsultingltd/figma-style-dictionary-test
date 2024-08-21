@@ -1,7 +1,7 @@
 {
   "Colours": {
     "primary-background": {
-      "value": "#122b80",
+      "value": "deepskyblue",
       "type": "color"
     },
     "primary-text": {
@@ -492,7 +492,7 @@
       "type": "fontWeights"
     },
     "font-family-text": {
-      "value": "Brandon Grotesque",
+      "value": "Lato",
       "type": "fontFamilies",
       "description": "Calibri, Roboto Condensed, Arial Narrow, sans-serif"
     },
