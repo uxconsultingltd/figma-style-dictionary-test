@@ -1,11 +1,11 @@
 {
   "Colours": {
     "primary-background": {
-      "value": "purple",
+      "value": "orange",
       "type": "color"
     },
     "primary-text": {
-      "value": "#ffffff",
+      "value": "black",
       "type": "color"
     },
     "primary-border": {
